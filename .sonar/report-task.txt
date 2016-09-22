@@ -1,0 +1,5 @@
+projectKey=a1
+serverUrl=http://172.27.59.22:9080
+dashboardUrl=http://172.27.59.22:9080/dashboard/index/a1
+ceTaskId=AVdQm9i92AUAQOLnB9-R
+ceTaskUrl=http://172.27.59.22:9080/api/ce/task?id=AVdQm9i92AUAQOLnB9-R
